@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def safe_print_list(my_list=[], x=0):
+def safe_print_list:(my_list=[], x=0):
     num_of_elem = 0
     len_list = 0
     counter = 0
